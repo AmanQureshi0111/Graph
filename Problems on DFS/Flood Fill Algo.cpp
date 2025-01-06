@@ -1,4 +1,5 @@
 /*  https://leetcode.com/problems/flood-fill/
+    fill from source node to every connected nodes
 */
 #include<iostream>
 #include<cmath>
