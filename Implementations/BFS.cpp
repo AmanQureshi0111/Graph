@@ -1,7 +1,14 @@
-#include <vector>
+#include<iostream>
+#include<cmath>
+#include<string>
+#include<vector>
+#include<map>
+#include<queue>
+#include<stack>
+using namespace std;
 vector<int> bfsOfGraph(vector<vector<int>> &adj) {
         int n=adj.size();
-        int vis[n]={0};
+        vector<int>  vis(n,0);
         vis[0]=1;
         queue<int> q;
         q.push(0);
