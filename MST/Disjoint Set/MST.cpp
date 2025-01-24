@@ -12,6 +12,9 @@ Explanation:
 The Spanning Tree resulting in a weight
 of 4 is shown above.
 */
+
+//A minimum spanning tree (MST) is defined as a spanning tree that has the minimum weight among all the possible spanning trees
+
 #include<iostream>
 #include<cmath>
 #include<string>
@@ -25,6 +28,7 @@ of 4 is shown above.
 #include<set>
 using namespace std;
 
+//Krushkal's Algo
 class DisJointSet{
   vector<int> parent,size;
   public:
@@ -72,5 +76,32 @@ class Solution {
             }
         }
         return mst;
+    }
+};
+
+//Prim's Algo
+class Solution {
+  public:
+    // Function to find sum of weights of edges of the Minimum Spanning Tree.
+    int spanningTree(int V, vector<vector<int>> adj[]) {
+        int sum=0;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        pq.push({0,0});//wt,node
+        vector<int> vis(V,0);
+        while(!pq.empty()){
+            int node=pq.top().second;
+            int wt=pq.top().first;
+            pq.pop();
+            
+            if(vis[node]) continue;
+            vis[node]=1;
+            sum+=wt;
+            for(auto it:adj[node]){
+                if(!vis[it[0]]){
+                    pq.push({it[1],it[0]});
+                }
+            }
+        }
+        return sum;
     }
 };
