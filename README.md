@@ -41,6 +41,20 @@
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 💼 Experience  
+
+#### 💻 **Full Stack Developer Intern – KronixTech (Jun 2025 – Jul 2025)**  
+- Built and maintained scalable web applications focusing on both frontend and backend.  
+- Developed responsive interfaces using **React.js** and **Tailwind CSS**.  
+- Implemented **MongoDB** integration for structured data storage.  
+- Worked in an agile team to deploy production builds using **Vercel** and **Render**.  
+- Focused on debugging, optimization, and clean deployment workflows.  
 
 ---
 
@@ -48,19 +62,34 @@
 
 | 🚀 Project | 🧠 Description | ⚙️ Tech Stack |
 |-------------|----------------|----------------|
-| **[E-commerce Website](#)** | Next.js, Tailwind, Stripe payments, MongoDB backend | `Next.js` `React` `Stripe` |
-| **[Weather App](https://github.com/AmanQureshi0111/WeatherApp)** | Real-time weather data using public APIs | `HTML` `CSS` `JS` |
-| **[Amazon Clone](https://github.com/AmanQureshi0111/amazon-clone)** | Full-stack e-commerce clone with modern UI | `React` `Tailwind` |
+| **[E-commerce Website](#)** | Developed frontend using Next.js & Tailwind, integrated Stripe checkout and webhooks | `Next.js` `React` `Stripe` `MongoDB` |
+| **[Weather App](https://github.com/AmanQureshi0111/WeatherApp)** | Real-time weather data using OpenWeatherMap API | `HTML` `CSS` `JS` |
+| **[Currency Converter App](https://github.com/AmanQureshi0111/Currency_Convertor_App)** | Dynamic currency conversion using Frankfurter API | `React` `Tailwind` `Hooks` |
+| **[Amazon Clone](https://github.com/AmanQureshi0111/amazon-clone)** | Full-stack Amazon clone with authentication & cart management | `React` `Tailwind` |
 | **[KYC MVP](https://github.com/AmanQureshi0111/kyc_mvp)** | Automated KYC onboarding using secure workflow | `Next.js` `MongoDB` |
-| **[Titanic Report](https://github.com/AmanQureshi0111/titanic_report)** | Exploratory data analysis & visualization | `Python` `Pandas` |
+| **[Titanic Report](https://github.com/AmanQureshi0111/titanic_report)** | Data visualization & analysis project | `Python` `Pandas` |
 
 ---
 
 ### 🏆 Achievements & Certifications  
 
-- 🏅 **Flipkart GRiD 7.0 – National Semi-Finalist** *(2025)*  
+- 🥈 **Flipkart GRiD 7.0 – National Semi-Finalist (2025)**  
 - 🎓 **Microsoft Azure AI Fundamentals** – Score: **877 / 1000**  
-- 💡 **GeeksforGeeks GfG 160** – *160 Days of Problem Solving*  
+- 💻 **LeetCode – Knight Badge** for consistent problem-solving excellence  
+- 💡 **GeeksforGeeks GfG 160** – 160 Days of Problem Solving Program  
+
+---
+
+### 🎓 Education  
+
+- 🎓 **Vellore Institute of Technology (2022 – 2026)**  
+  _B.Tech in Computer Science Engineering_ – Vellore, Tamil Nadu  
+
+- 🏫 **Assisi Convent School (2019 – 2021)**  
+  _Higher Secondary Education (HSC)_ – Etah, Uttar Pradesh  
+
+- 🏫 **Limra International School (2017 – 2019)**  
+  _Class X (CBSE)_ – Etah, Uttar Pradesh  
 
 ---
 
@@ -77,10 +106,30 @@
 
 ---
 
+### 🧠 Core Competencies  
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOPs)  
+- Problem Solving & Analytical Thinking  
+- Web Application Design & Deployment  
+- Team Collaboration & Leadership  
+
+---
+
+### 🎤 Leadership / Extracurricular  
+
+- **Event Coordinator – VIT Vellore**  
+  - Organized and managed events for university cultural festivals.  
+  - Coordinated schedules, logistics, and technical setup for multiple teams.  
+
+---
+
 ### 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-qureshi-ab7811253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/AmanQureshi2502786/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://take-my.info/aman-qureshi/"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://x.com/AmanQur58249970"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://www.instagram.com/amanqureshi2502_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
